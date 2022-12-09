@@ -1,0 +1,104 @@
+.myfont{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mysubfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey !important;
+}
+.myimg{
+    width: 50% !important
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/54/8a/94/548a9446be37be6b7ea3ee773b3d5652.jpg');
+    color: #FFFFFF;
+}
+
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+     text-align: center;
+    width: 100%;
+    font-size: xx-large
+
+}
+.intro {
+    color: white;
+    text-align: center;
+}
+.button{
+    border: 1px;
+    border-color: black;
+}
+.HLWP{ font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: white;
+font-size: xx-large;
+text-align: center;
+margin-top: 10px;
+font-weight: bolder;
+text-decoration: underline;
+
+}
+.job{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: small;
+    
+    /* position: absolute */
+ 
+}
+.edu {color:white;
+    margin-left: 545px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: small;
+    width: 45%;
+    /* position: absolute; */
+    }
+.exp{
+    color:white;
+    margin-left: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: small;
+    width: 45%;
+    /* position: absolute; */
+    
+}
+
+.hi{
+    color: white;
+    text-align: center;
+}
+.jobtitle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+     text-align: center;
+    text-decoration: underline;
+
+}
+.slccpic{
+    text-align: center;
+    margin-left: 600px;
+
+}
+
+.educate{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+     text-align: center;
+    width: 100%;
+    font-size: xx-large;
+    margin-left: 150px;
+    
+
+}
+.list{font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: left;}
+
